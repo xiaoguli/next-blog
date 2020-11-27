@@ -1,0 +1,2 @@
+# nextBlog
+next.js + ts 
